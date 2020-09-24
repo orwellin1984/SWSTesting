@@ -1,3 +1,9 @@
+"""
+本程序的主要目的是对测量得到的数据进行最小二乘计算，得到拟合函数，将ScrewPoint的边缘函数化
+Version: 0.01
+E-mail: orwell.in1984@gmail.com
+By: Luning
+"""
 #!/usr/bin/env python
 # coding:utf-8
 
