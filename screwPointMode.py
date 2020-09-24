@@ -1,3 +1,10 @@
+"""
+这个程序用来创建一个符合JIA A 1221 标准的 SWS实验装置的模型
+将模型实体化，目的是为接下来的数学计算提供数据模型支持
+Version: 0.1
+E-mail: orwell.in1984@gmail.com
+By:Luning
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
